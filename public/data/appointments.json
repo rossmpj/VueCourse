@@ -1,0 +1,20 @@
+[
+  {
+    "petName": "Dylan",
+    "petOwner": "Rosa",
+    "aptDate": "7/3/2022",
+    "aptNotes": "Te amo Dylan"
+  },
+  {
+    "petName": "Kyra",
+    "petOwner": "Ramón",
+    "aptDate": "7/3/2022",
+    "aptNotes": "La malcriada"
+  },
+  {
+    "petName": "Nube",
+    "petOwner": "Elvin",
+    "aptDate": "7/3/2022",
+    "aptNotes": "La vaga"
+  }
+]
